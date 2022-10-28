@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/VDHL_Sims/ECE485_project_2/ECE485_project_2.srcs/sources_1/new/Full_Adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Full_Adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "Z:/VDHL_Sims/ECE485_project_2/ECE485_project_2.srcs/sources_1/new/vhdl_port_code.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'vhdl_port_code'

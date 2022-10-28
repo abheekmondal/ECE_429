@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Fri Oct 28 06:39:39 2022
+# Process ID: 14036
+# Current directory: Z:/VDHL_Sims/ECE485_project_2/ECE485_project_2.runs/synth_1
+# Command line: vivado.exe -log Full_Adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Full_Adder.tcl
+# Log file: Z:/VDHL_Sims/ECE485_project_2/ECE485_project_2.runs/synth_1/Full_Adder.vds
+# Journal file: Z:/VDHL_Sims/ECE485_project_2/ECE485_project_2.runs/synth_1\vivado.jou
+# Running On: Astral-Tower, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 8, Host memory: 51467 MB
+#-----------------------------------------------------------
+source Full_Adder.tcl -notrace
